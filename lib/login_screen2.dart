@@ -33,7 +33,7 @@ class _LoginScreen2State extends State<LoginScreen2> {
           TextField(
             obscureText: true,
             decoration: InputDecoration(
-              labelText: "Password",
+              labelText: "Password edit",
               hintText: 'Enter Your Password',
               prefixIcon: Icon(Icons.lock),
               suffixIcon: IconButton(
